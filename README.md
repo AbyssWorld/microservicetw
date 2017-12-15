@@ -1,2 +1,0 @@
-# microservicetw
-sample proj
